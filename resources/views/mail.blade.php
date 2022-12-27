@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>App Mail </title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -21,10 +21,12 @@
         </style>
     </head>
     <body class="antialiased">
-        <div class="relative flex flex-col items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-        <h2>
-        <a href="/sendMail">Envoi Mail with File</a>
-        </h2>
-        </div>
+            <h3>Bonjour Madame/Monsieur</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum vitae omnis reprehenderit rem laudantium expedita sunt necessitatibus modi nihil voluptas tempore debitis ad, error minus eum, perspiciatis libero natus similique.
+                Ratione odit reiciendis tempora molestiae voluptatum repellendus id illo minus dolor nisi inventore necessitatibus, dolorum eum corporis impedit perspiciatis, mollitia dignissimos, aspernatur neque praesentium voluptatibus quam nihil? Accusamus, cum eaque.
+                Repudiandae minima dicta natus odio molestiae illum dolorem recusandae alias non maiores illo eos molestias voluptas, facilis dolorum, esse magni ipsum tenetur enim distinctio nesciunt. Porro dolorum odio reprehenderit ratione.
+                Nesciunt reiciendis, reprehenderit, voluptatibus delectus quidem ducimus perspiciatis deserunt deleniti quibusdam cum harum natus commodi fuga! Temporibus, expedita porro, itaque alias labore, adipisci eos in culpa molestias dolorem quae similique?
+            </p>
     </body>
 </html>

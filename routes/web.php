@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Mail\MailClient;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,5 +18,10 @@ Route::get('/', function () {
 });
 
 Route::get('/sendMail', function(){
-    return "Send emal envoye !";
+    try{
+        Mail::to("test@gmail.com")->send(new MailClient);
+        return "Send emal envoye !";
+    }catch(Exception $e){
+        dump($e->getMessage());
+    }
 });
