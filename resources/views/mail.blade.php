@@ -21,12 +21,14 @@
         </style>
     </head>
     <body class="antialiased">
-            <h3>Bonjour Madame/Monsieur</h3>
+            <h3>Bonjour Madame / Monsieur</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum vitae omnis reprehenderit rem laudantium expedita sunt necessitatibus modi nihil voluptas tempore debitis ad, error minus eum, perspiciatis libero natus similique.
                 Ratione odit reiciendis tempora molestiae voluptatum repellendus id illo minus dolor nisi inventore necessitatibus, dolorum eum corporis impedit perspiciatis, mollitia dignissimos, aspernatur neque praesentium voluptatibus quam nihil? Accusamus, cum eaque.
                 Repudiandae minima dicta natus odio molestiae illum dolorem recusandae alias non maiores illo eos molestias voluptas, facilis dolorum, esse magni ipsum tenetur enim distinctio nesciunt. Porro dolorum odio reprehenderit ratione.
-                Nesciunt reiciendis, reprehenderit, voluptatibus delectus quidem ducimus perspiciatis deserunt deleniti quibusdam cum harum natus commodi fuga! Temporibus, expedita porro, itaque alias labore, adipisci eos in culpa molestias dolorem quae similique?
             </p>
+            <h4>
+                Veuillez recuperer ci-dessus le fichier joint.
+            </h4>
     </body>
 </html>
